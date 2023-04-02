@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.151.2",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
